@@ -1,0 +1,23 @@
+a{
+    text-decoration:none;
+    color:green;
+}
+p{
+    padding-top:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    padding-left:5px;
+    margin-left:10px;
+}
+footer p{
+    font-size:12px;
+    margin-left:0px
+}
+.desc{
+    font-family:script;
+    font-style:italic;
+}
+#subhead{
+    padding-left:0px;
+    margin-left:0px;
+}
